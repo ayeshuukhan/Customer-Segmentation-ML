@@ -1,5 +1,5 @@
 
-## 📌 Project Overview
+## Project Overview
 
 Customers are grouped into clusters based on features like **Age, Education, Income, Years Employed, Debts, and Debt-Income Ratio**.
 
@@ -11,7 +11,7 @@ The goal:
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Data Preprocessing**: Clean and prepare customer data for clustering.
 * **Customer Segmentation**: Group customers using clustering (e.g., KMeans).
@@ -20,7 +20,7 @@ The goal:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **Customer Id**: Unique ID for each customer
 * **Age, Education, Income**: Demographic and financial details
@@ -30,7 +30,7 @@ The goal:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Python**
 * **Pandas, NumPy** → Data handling
@@ -39,7 +39,7 @@ The goal:
 
 ---
 
-## 📊 Workflow
+## Workflow
 
 1. **Load & preprocess data**
 2. **Apply clustering algorithm** (KMeans)
@@ -49,7 +49,7 @@ The goal:
 
 ---
 
-## 📸 Visualizations
+## Visualizations
 
 * **Scatter Plot**: Customers distributed by Age & Income
 * **Cluster Comparison**: Mean income, education, and other features per cluster
